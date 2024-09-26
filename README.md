@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/prajwal-wandhare-four5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Prajwal Wandhare" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/prajwalw4501" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajwalw4501" height="30" width="40" /></a>
- <a href="https://leetcode.com/u/prajwalw4501/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" alt="prajwalw4501" height="30" width="40" /></a>
+ <a href="https://leetcode.com/u/prajwalw4501/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg](https://camo.githubusercontent.com/9c1d4a99f3889edd01c733e30df2c2dcb9515375f502a4ed15b921073e9e6040/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c656574636f64652d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d4c656574436f6465266c6f676f436f6c6f723d23643136633036)" alt="prajwalw4501" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
